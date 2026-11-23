@@ -1,0 +1,20 @@
+{
+ "name": "セドリ事業計画 自分用 by Urushihara",
+ "short_name": "セドリ自分用",
+ "start_url": "./",
+ "display": "standalone",
+ "background_color": "#f5f6f3",
+ "theme_color": "#0f4c5c",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
